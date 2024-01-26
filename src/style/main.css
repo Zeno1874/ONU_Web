@@ -1,0 +1,17 @@
+@import "font.css";
+#app{
+  overflow: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'HarmonyOS_Sans_SC', sans-serif;
+}
+
+::-webkit-scrollbar{
+  display: none !important;
+}
+
+img{
+  display: block;
+}
